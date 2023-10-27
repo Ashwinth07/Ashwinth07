@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 💫 I'M Ashwinth👋
 
 # 💫 About Me:
 🔭 I’m currently learning FullStack(Mern) .<br>🤝 I’m looking for good company to explore and develop my skills.<br>💬 Ask me about React.<br>⚡ Fun fact-I am lazy but smart.
