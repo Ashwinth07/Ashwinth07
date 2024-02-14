@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 🔭 I’m currently learning FullStack(Mern) .<br>🤝 I’m looking for good company to explore and develop my skills.<br>💬 Ask me about React.<br>⚡ Fun fact-I am lazy but smart.
+# 📈 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashwinth07&color=green)
 
 ## 🌐 Socials:
